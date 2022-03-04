@@ -1,0 +1,9 @@
+#mac
+*.DS_Store
+
+#To-Be-Shure
+*.mp3
+*.wav
+*.asd
+*.als
+*.zip

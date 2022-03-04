@@ -4,9 +4,7 @@
 #To-Be-Shure
 *.mp3
 *.wav
-*.asd
-*.als
 *.zip
 
-#Specific
-*.json #made by the algorithm
+#Made by the algorithm
+*.json

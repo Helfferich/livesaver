@@ -7,3 +7,6 @@
 *.asd
 *.als
 *.zip
+
+#Specific
+*.json #made by the algorithm
